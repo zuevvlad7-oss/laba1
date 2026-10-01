@@ -1,0 +1,16 @@
+{
+  "os_name": "Windows",
+  "os_release": "11",
+  "os_version": "10.0.26200",
+  "os_architecture": "AMD64",
+  "username": "zuevv",
+  "home_dir": "C:\\Users\\zuevv",
+  "current_dir": "C:\\Users\\zuevv\\PycharmProjects\\WelcomeScreen",
+  "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "cpu_cores": 16,
+  "hostname": "Vlad",
+  "ip_address": "10.159.95.147",
+  "disk_total_gb": 632.66,
+  "disk_used_gb": 268.14,
+  "disk_free_gb": 364.52
+}
